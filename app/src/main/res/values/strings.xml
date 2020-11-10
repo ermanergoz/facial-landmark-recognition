@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Face Recognition</string>
+    <string name="switch_camera">Switch camera</string>
+    <string name="camera_permission_required">Camera permission is required to detect faces.</string>
+</resources>
